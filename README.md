@@ -157,7 +157,7 @@ Developed an AI-based Crime Analysis & Prediction System using Python, Pandas, a
 
 ## 👨‍💻 Author
 
-**Gaurav Gupta**
+**Gaurav **
 
 ---
 
